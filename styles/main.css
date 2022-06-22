@@ -1,0 +1,43 @@
+p {
+    font-family: Roboto, Arial;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+body {
+    margin-bottom: 0;
+    margin-top: 0;
+    font-family: Roboto, Arial;
+    padding-top: 80px;
+    padding-left: 100px;
+    padding-right: 20px;
+    padding-bottom: 1000px;
+    background-color: rgb(251, 251, 251);
+}
+
+a:link {
+    color: black;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:visited {
+    color: black;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a.video-author-channel {
+    color: rgb(170,170,170);
+}
+
+a.video-author-channel:hover{
+    color: black;
+}
+
+a.video-stats-preview {
+    color: rgb(170,170,170);
+}
+a.video-stats-preview:hover {
+    color: rgb(170,170,170);
+}
